@@ -5,9 +5,6 @@ Dashboard Preview
 
 <img width="1478" height="822" alt="image" src="https://github.com/user-attachments/assets/67f20517-6158-4ed7-9f3a-60d0de451975" />
 
-Telco Customer Churn: End-to-End Business Performance Analytics
-
-An end-to-end data analytics and business intelligence solution analyzing customer churn behavior, statistical pricing drivers, tenure-based flight risk, and high-risk customer segmentation using the IBM Cognos Telco dataset.
 
 Dashboard Preview
 
